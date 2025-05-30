@@ -19,7 +19,7 @@ This project involves analyzing clinic appointment data to improve operational e
 - Matplotlib for data visualization
 - Streamlit for building the interactive dashboard
 
-##Future Work
+## Future Work
 -Implement predictive models to forecast no-shows
 -Develop simulation models for appointment slot optimization
 -Add filters and visualizations to the dashboard using Power BI
